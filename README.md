@@ -1,3 +1,6 @@
+
+This project is tested with [BrowserStack](https://browserstack.com/)*
+
 # GraphQL + React Event Booking API
 This code belongs to a tutorial series: [https://github.com/academind/yt-graphql-react-event-booking-api.git](https://github.com/academind/yt-graphql-react-event-booking-api.git)
 
